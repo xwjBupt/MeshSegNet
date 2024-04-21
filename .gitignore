@@ -1,0 +1,8 @@
+*.zip
+*.pyc
+*.jpg
+*.whl
+*.png
+*.txt
+*.yaml
+*play*
